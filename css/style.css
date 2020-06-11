@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.main{
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+.button{
+    width: 4vw;
+    height: 4vw;
+    font-size: 2vw;
+    cursor: pointer;
+}
+
+.screen{
+    width: 16vw;
+    height: 5vw;
+    margin: 1px 0px;
+    font-size: 4vw;
+    padding: 2px;
+}
+
+.miniscreen{
+    width: 16vw;
+    margin: 2px 0px;
+    font-size: 16px;
+    padding: 5px;
+}
+
+#equal{
+    width: 16.2vw;
+    height: 3vw;
+}
